@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Software Engineering related research. I am a junior CS researcher.
-- 🌱 I’m currently learning Japanese :)
-- 😄 Pronouns: follow me.. HAPPY-GIRL-Z-T :D
-- ⚡ Fun fact: I created this username when I was in the fourth grade. I am a bit embarrassed to have such a username as I am growing older. :) Anyway, I will keep using this username forever.
+- 💚 I'm a junior CS researcher working on Software Engineering related research.
+- 💙 I’m currently learning Japanese 日本語 :)
+- 💜 Pronouns: HAPPY-GIRL-Z-T
+- 🌈 Fun fact: I created this username in the fourth grade. As I grow older, having such a username makes me a little embarrassed. :) Anyway, I will always use that username.
